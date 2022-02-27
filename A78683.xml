@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of the Kings message sent by the Duke of Lenox. Also the copie of a petition to the King from the inhabitants of Somersetshire, to come with him to the Parliament. A declaration by the committee of Dorsetshire, against the Cavaliers in those parts; declaring how sixe French papists ravished a woman one after another: she having been but three dayes before delivered out of child-bed. Also, how a gentleman at Oxford was cruelly tortured in irons, and for what they were so cruell towards him. And how they would have burnt down an ale-house at the Brill, because the woman refused farthing tokens; and other cruelties of the Cavaliers, manifested to the kingdome. Published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78683</idno>
+            <idno type="STC">Wing C2171</idno>
+            <idno type="STC">Thomason E16_10</idno>
+            <idno type="STC">ESTC R15461</idno>
+            <idno type="EEBO-CITATION">99859868</idno>
+            <idno type="PROQUEST">99859868</idno>
+            <idno type="VID">111968</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78683)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111968)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E16[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of the Kings message sent by the Duke of Lenox. Also the copie of a petition to the King from the inhabitants of Somersetshire, to come with him to the Parliament. A declaration by the committee of Dorsetshire, against the Cavaliers in those parts; declaring how sixe French papists ravished a woman one after another: she having been but three dayes before delivered out of child-bed. Also, how a gentleman at Oxford was cruelly tortured in irons, and for what they were so cruell towards him. And how they would have burnt down an ale-house at the Brill, because the woman refused farthing tokens; and other cruelties of the Cavaliers, manifested to the kingdome. Published according to order of Parliament.</title>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iane Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page contains woodcut ill. depicting atrocities by Cavalier soldiery.</note>
+                  <note>Annotation on Thomason copy: "Nouemb. 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lennox, James Stuart, --  Duke of, 1612-1655.</term>
+               <term>Somerset (England) --  History --  Early works to 1800.</term>
+               <term>Dorset (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Atrocities --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111968:1" rendition="simple:additions"/>
+            <p>A COPIE OF THE KINGS Meſſage ſent by the Duke of <hi>Lenox.</hi>
+            </p>
+            <p>Alſo the Copie of a Petition to the KING from the Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Somerſetſhire,</hi> to come with him to the Parliament.</p>
+            <p>A Declaration by the Committee of Dorſetſhire, againſt the Cava<g ref="char:EOLhyphen"/>liers in thoſe parts; declaring how ſixe French Papiſts raviſhed a wo<g ref="char:EOLhyphen"/>man one after another: She having been but three dayes before delivered out of Child-bed.</p>
+            <p>Alſo, how a Gentleman at Oxford was cruelly tortured in Irons, and for what they were ſo cruell towards him.</p>
+            <p>And how they would have burnt down an Ale-houſe at the Brill, be<g ref="char:EOLhyphen"/>cauſe the woman refuſed Farthing tokens; And other cruelties of the Cavaliers, manifeſted to the Kingdome.</p>
+            <figure>
+               <figDesc>depiction of Cavalier atrocities</figDesc>
+            </figure>
+            <p>
+               <hi>Publiſſied according to Order of Parliament.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Iane Coe.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <pb facs="tcp:111968:2"/>
+            <pb n="1" facs="tcp:111968:2"/>
+            <head>A <hi>Declaration</hi> of the vile and wicked wayes of the cruell <hi>Cavaliers.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S our cunning Enemies have ſtill laboured to involve theſe three Kingdomes of England, Scotland and Ireland, into equall miſery with Germany and other deſolate Countries; that as themſelves were falling under the rod of Juſtice, ſo we all might pertake of equall cala<g ref="char:EOLhyphen"/>mity with them, and (if poſſible) hinder the rightfull proceedings in Parliament; which would otherwayes make us happy, by bringing evill actions to juſt cenſures, and therefore chuſe rather to bring the whole bodies of all the King<g ref="char:EOLhyphen"/>domes to be deſtroyed, then they (though rotten and impoſthumed Members) be either cut off or lanched: Yet nevertheleſſe theſe Jeſuiticall Sophiſters, have ſtill laboured to mask all their bloody deſignes, under the white viſard and pretence of Peace, like that of France, which was but a Preface to the inſuing maſſacre. I will firſt preſent you with a Petition of the malignant Gentry and Freeholders of the County of Somerſet, which Petition was gi<g ref="char:EOLhyphen"/>ven to the King when he was at Sturmiſter, very fairly drawn thus.</p>
+            <pb n="2" facs="tcp:111968:3"/>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <head>To the Kings most Excellent Majeſty. The humble Petition of the Gentry, Freeholders, and others, your Majeſties loyall, and Proteſtant Subjects, of the County of Sommerſet.</head>
+                  <opener>Moſt humbly ſheweth:</opener>
+                  <p>THat among the many miſeries that the preſent warre hath brought upon them, it hath been a great comfort to them to ſee your pious inclination to, and continued endeavours for ſetling Peace again, and had hoped that your Majeſties gracious Meſſage to that purpoſe would have produced that deſired effect. But not finding that ſucceſſe anſwera<g ref="char:EOLhyphen"/>ble to their expectations, and your Majeſty being now upon a march nea<g ref="char:EOLhyphen"/>rer towards <hi>London;</hi>
+                  </p>
+                  <p>They humbly beſeech your Majeſty, that thoy may have liberty to waite in perſon upon your Maieſty, and at a nearer diſtance of place, be<g ref="char:EOLhyphen"/>come Petitioners to the Lords and Commons of Parliament aſſembled at <hi>Weſtminſter,</hi> to embrace your Maieſties gracious offers of peace, and put an end to the calamities of this diſtracted and almoſt ruined nation, with due care to the preſervation of the true Reformed Proteſtant Religi<g ref="char:EOLhyphen"/>on, your Maieſties Right and honours, the priviledges of Parliament, and your ſubiects liberties and properties, according to the Lawes of this your Kingdome: And in caſe they may not obtain ſo iuſt a request, they ſhall hold their lives beſt ſpent in aſsiſting your Maieſty to compaſſe that by the ſword, which by any other fair and iuſt way could not be effected; to which end they deſire liberty to put themſelves in Armes, and as they alwayes lived, ſhall reioice to dye,</p>
+                  <closer>
+                     <signed>Your Maieſties most loyall and faithfull Subiects.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This Petition being preſented to the King, from the Cava<g ref="char:EOLhyphen"/>lieres and Malignants of the Country, was read, and the Duke of Lenox and Richmond being then by, the King ſpake thus to the Duke.</p>
+            <pb n="3" facs="tcp:111968:3"/>
+            <p>It is well knowne that the people of this Countie of Somerſet are very Heatheniſh and ignorant, and yet me thinks they might have had ſo much ſence and reaſon as to know that to put an end to theſe Calamities we now groane under, are not by Banding with Prieſts Jeſuites and Friers, Iriſh Rebels, and Papiſts againſt the Repreſentative body of the Kingdome, now ſitting in Parlia<g ref="char:EOLhyphen"/>ment, who fit there to reforme all the grievances of Kingdome. If we would live in peace and ſee good dayes, we muſt ioyne with the Parliament againſt theſe Romiſh Jeſuiticall Armie, that ſo the Proteſtant Church may bee delivered from their Idolatry: and wickedneſſe, Jeſus Chriſt may bee be advanced unto his Throne, and the Church and ſtate ſetled in heaven.</p>
+            <floatingText xml:lang="eng" type="speech">
+               <body>
+                  <head>The Kings Speech to the Duke of <hi>Lenox</hi> and <hi>Richmond;</hi> in Anſwer to the Petition.</head>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>I Deſire you to ſignifie to the Petitioners, that I do well approve their hearty and loyall affections, and accept the free offer of their ſervice to me, with thanks; and give them free liberty to meet and put themſelves in Armes, according to their deſire, and waite upon me; and freely do give leave to them to become Peti<g ref="char:EOLhyphen"/>tioners of the Lords and Commons of Parliament aſſembled at Weſtminſter, for compoſing the unhappy differences of this poor Kingdome in a peaceable way; and ſhall be glad to hear the Peti<g ref="char:EOLhyphen"/>tioners, and all other my loyall and well affected Subjects preſent with me, and be witneſſes who is in the fault, if they be not pre<g ref="char:EOLhyphen"/>ſently reſtored to an happy peace again. I hereby aſſuring them, that I will only inſert upon the preſervation of the true Reformed Proteſtant Religion, my own known Rights, the Priviledges of Parliament, and my Subjects liberty and property, according to the Lawes of the Kingdome; and ſhall endeavour to have all theſe ſetled, in a full and free Convenſion of Parliament.</p>
+                  <pb n="4" facs="tcp:111968:4"/>
+                  <p>And becauſe I would not have the good intentions of the peti<g ref="char:EOLhyphen"/>tioners fruſtrated, I wiſh them to take care to make ſuch propoſi<g ref="char:EOLhyphen"/>tions, as may be neceſſary for their Journey, and they ſhall not fale of my beſt aſſiſtance likewiſe therein. And I deſire the She<g ref="char:EOLhyphen"/>rief of this Countie do ſummon the poſſe thereof, or any other perſons inhabitants of the ſame, at ſuch time, and in ſuch places, as the Commiſſioners ſhall thinke fit, for the advancement of this buſineſſe.</p>
+               </body>
+            </floatingText>
+            <p>This Meſſage the Duke of Lenox and Richmond delivered to the Commiſſioners of Aray, who endeavoured to preſſe and forſe all they could to go to joyne with the King, ſo that the Inhabi<g ref="char:EOLhyphen"/>tants were faine to fly from their dwellings, and the honeſt Gen<g ref="char:EOLhyphen"/>tlemen, and Freeholders, with what they could ſafely take with them, were driven to ride into Gloſterſhire, Dorſetſhire, and other parts, and ſome to come to London, to be rid of, and ſecure them<g ref="char:EOLhyphen"/>ſelves, whoſe houſes were ſoundly plundred in their abſence,</p>
+            <p>And who can be ſo blinde as not ſee, that they ſeek for to de<g ref="char:EOLhyphen"/>ſtroy this, and in this all Parliaments, ſecondly to ſpoyle the Fa<g ref="char:EOLhyphen"/>mers City of London, and with them all the reſt of Kingdome, which they call Round Heads. There uſuall courſe being to ſwer <hi>they will make the Round-heads bowe to a Croſſe.</hi>
+            </p>
+            <p>The poore Hoſteſſe at the Brill, becauſe ſhe told her Boſtocke Gueſte the laſt weeke that farthings would not goe, and diſired them to give her ſilver, they kicked her up and downe houſe, and ſet fire of the houſe, and had burnt it down, but that by large re<g ref="char:EOLhyphen"/>wards, and importunity, they permitted her neighbours to quench it.</p>
+            <p>And an honeſt man a priſoner in Oxford ſaid not long ſince that if he was at London in peace, he did not doubt but through Gods bleſſing to be able to give to them, who now deny him bread, and for this he was put neck and heeles in Irons three dayes to gether and in Iron fetters a moneth after.</p>
+            <pb n="5" facs="tcp:111968:4"/>
+            <p>But theſe are no ſtrange things, for thus do they abuſe the King himſelfe, for notwitſtand all theſe proteſtations and ſhewes of love, and What not to the King, yet at the late fight at New<g ref="char:EOLhyphen"/>bery; they all fled from him, to Wallingford, ſave onely about 20. of his Life Guard; that the King cryed out after them, ſaying, <hi>Will you all leave me, they will take me priſaner, and carry me to the Tower,</hi> and they left him in this condition, are not theſe prety fellowes to be truſted by the King before his Parliement, this was a baſe dog tricke of them, one would thinke that the King ſhould never truſt them againe.</p>
+            <p>And although there are many axamples more of the unworthy, yea and exceeding barbarous examples of the Kings forces, to ho<g ref="char:EOLhyphen"/>neſt godly people where they come, and eſpecially by the Papiſts, and ſuch as are moſt in eſteem and truſt amongſt them; yet I ſhall conclude with a moſt inhumane and beaſtly action done by ſome of their beloved French Shouldiers in Dorcetſhire, certified un<g ref="char:EOLhyphen"/>der the hands of the Committee in that Countie, and by a Declaration from them, of which here followeth a coppie.</p>
+            <floatingText xml:lang="eng" type="county_report">
+               <body>
+                  <opener>
+                     <dateline>At the ſtanding Committee of the Countie of <hi>Dorſet,</hi> 
+                        <date>24. October, 1644.</date>
+                     </dateline>
+                     <salute>Countreymen friends and neighbours.</salute>
+                  </opener>
+                  <p>WHereas we are informed of many monſtrous outrages in ſeverall townes and pariſhes, in this Countie, by the French Papiſts of the Queenes Regiment, and others who are put among us by ſome ill affected Gentlemen, to aſſiſt them in raiſing forces, and amongſt the reſt a moſt horred act, moſt exe<g ref="char:EOLhyphen"/>crable, and Abominable in the ſight of God and man, commit<g ref="char:EOLhyphen"/>ted by ſix of thoſe French Troopers, who forced a woman in a moſt beaſtly manner, one after another, three dayes after her deli<g ref="char:EOLhyphen"/>very from childebed, to the hazard of her life, and have alſo com<g ref="char:EOLhyphen"/>mitted divers others, Rapes, Murthers, and other actions, un<g ref="char:EOLhyphen"/>fit
+<pb n="6" facs="tcp:111968:5"/>to be named by us, in ſundry places of this countie, we profeſſe to the world our hearty hatred, and deteſtation of the abominable facts, and doe Reſolve by the helpe of Almighty God, to cauſe juſtice to be executed upon the offenders, and do hereby declare our reſolutions to the uttermoſt of our indeavours, to drive out of theſe parts thoſe barbarous Blood-ſuckers, and inhumane beaſts, and all their abettors, their indeavours being to extirpate our Religion and Liberty, and to bring us, and our poſterity into per<g ref="char:EOLhyphen"/>petuall bondage, and ſlavery, and by theſe and ſuch like inſtru<g ref="char:EOLhyphen"/>ments, to triumph over us at their pleaſure, if therefore your zeale to God, your love to Religion, and liberty, your care to have juſtice executed, and your deſires to enjoy your wives chil<g ref="char:EOLhyphen"/>dren, and eſtates in peace, ſhall ſtir you up to joyn with us in this action, ſo much concerning the glory of God, and good of your Countrey, we promiſe to aſſiſt you with our lives and fortunes which we intend to demonſtrate, by our preſent taking the field, and whoſoever ſhall joyne with us in a buſineſſe of ſuch impor<g ref="char:EOLhyphen"/>tance ſhall be furniſhed with Armes and other things needfull for the ſervice. And thus in expectation of your Readineſſe,</p>
+                  <closer>
+                     <signed>we heartily remain: Your loving friends. Subſcribed by <hi>Anthonie Aſhley Cooper,</hi> and the reſt of the Committee.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
